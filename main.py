@@ -91,4 +91,4 @@ async def menu(ctx,number=x-1):
     await ctx.send(date[int(number)-1] + " Tarihli Günün Menüsü")
     await ctx.send(newList4[int(number) - 1])
 
-client.run("MTAyNjg2NTIyNzM3NzE0Nzk4NQ.G8n1yf.Bt2Q_YLrwurLv7OhIEFBesXRqxhThuTKkpwBJ8")
+client.run("TOKEN")
