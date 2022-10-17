@@ -1,5 +1,5 @@
 # hafize-ana
-## Projenin Amacı : Bursa Teknik Üniversitesinin Yemek Menüsünü Öğrenme Botu (Discord)
+## Projenin Amacı : Bursa Teknik Üniversitesinin Yemek Menüsünü Pratikçe Öğrenme Botu (Discord)
 **Komutlar : -menu (menüsü öğrenilmek istenen gün (değer girilmezse o günün menüsünü gösterir))** </br>
 **Ekstra Özelllik : Discord Botuna tek bir tıklamayla o günün güncel menüsünü göstermesi**
 
