@@ -8,5 +8,4 @@
 
 
 
-
 [Botu Discord Sunucusuna Bağlama Linki](https://discord.com/api/oauth2/authorize?client_id=1026865227377147985&permissions=8&scope=bot)
