@@ -24,8 +24,8 @@ for link in links:
         pdf = open("pdf"+str(i)+".pdf", 'wb')
         pdf.write(response.content)
         pdf.close()
-        print("File ", i, " downloaded")
-print("All PDF files downloaded")
+        print(i, "Dosya Indirildi")
+print("Indirme Tamamlandi")
 
 df = tabula.read_pdf("pdf1.pdf", pages='all')[0]
 tabula.convert_into("pdf1.pdf", "yemekhane.csv", output_format="csv", pages='all')
