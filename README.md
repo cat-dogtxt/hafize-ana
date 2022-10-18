@@ -1,7 +1,7 @@
 # hafize-ana
 ## Projenin Amacı : Bursa Teknik Üniversitesinin Yemek Menüsünü Pratikçe Öğrenme Botu (Discord)
-**Komutlar : 
-- -menu (menüsü öğrenilmek istenen gün (değer girilmezse o günün menüsünü gösterir))**
+**Komutlar** : 
+- -menu (menüsü öğrenilmek istenen gün (değer girilmezse o günün menüsünü gösterir))
     `-menu 17`
     `-menu`
  </br>
