@@ -37,7 +37,7 @@ day = '{:02d}'.format(now.day)
 timer = '{}.{}.{}'.format(day,month,year)
 
 z = 0
-with open("yemekhane.csv") as csvfile:
+with open("yemekhane.csv",encoding="windows-1254") as csvfile:
     reader = csv.reader(csvfile)
     status = []
     for row in reader:
