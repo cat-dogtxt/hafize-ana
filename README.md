@@ -1,9 +1,14 @@
 # hafize-ana
 ## Projenin Amacı : Bursa Teknik Üniversitesinin Yemek Menüsünü Pratikçe Öğrenme Botu (Discord)
-**Komutlar** : 
-- -menu (menüsü öğrenilmek istenen gün (değer girilmezse o günün menüsünü gösterir))
-    `-menu 17`
-    `-menu`
+### **Başlarken**:
+- `git clone [repo]`
+- `cd hafize-ana`
+- `pip install -r requirements.txt` 
+- `python main.py`
+### **Komutlar** : 
+- -menu (menüsü öğrenilmek istenen gün -**değer girilmezse o günün menüsünü gösterir**
+   - `-menu 17`
+   - `-menu`
  </br>
  
 **Ekstra Özelllik : Discord Botuna tek bir tıklamayla o günün güncel menüsünü göstermesi**
