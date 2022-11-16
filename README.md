@@ -6,7 +6,7 @@
 - `pip install -r requirements.txt` 
 - `python main.py`
 ### **Komutlar** : 
-- -menu (menüsü öğrenilmek istenen gün -**değer girilmezse o günün menüsünü gösterir**
+- -menu (menüsü öğrenilmek istenen gün) -**değer girilmezse o günün menüsünü gösterir**
    - `-menu 17`
    - `-menu`
  </br>
