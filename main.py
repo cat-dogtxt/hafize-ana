@@ -11,6 +11,7 @@ from tabula import read_pdf , convert_into
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix='-', intents=intents)
 
+requests.packages.urllib3.disable_warnings()
 url = "https://sks.btu.edu.tr/index.php?sid=235"
 response = requests.get(url,verify=False)
 soup = BeautifulSoup(response.text, 'html.parser')
